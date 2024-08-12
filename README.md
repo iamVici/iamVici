@@ -31,20 +31,20 @@
 
 ###
 
-<img align="right" height="210" src="https://mir-s3-cdn-cf.behance.net/user/230/2348611124202643.66ae8329daa14.jpg"  />
+<img align="right" height="140" src="https://mir-s3-cdn-cf.behance.net/user/230/2348611124202643.66ae8329daa14.jpg"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamvici&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvici&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamvici&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvici&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="right">🔥   in Prime Mode.</p>
+<p align="right">[🔥]  in Prime Mode.</p>
 
 ###
 
